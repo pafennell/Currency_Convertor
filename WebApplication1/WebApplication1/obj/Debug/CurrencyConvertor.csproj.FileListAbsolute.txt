@@ -1,0 +1,18 @@
+C:\Users\pfennell\Documents\WebServicesApp\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\pfennell\Documents\WebServicesApp\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\pfennell\Documents\WebServicesApp\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\pfennell\Documents\WebServicesApp\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\pfennell\Documents\WebServicesApp\WebApplication1\WebApplication1\obj\Debug\CurrencyConvertor.csprojResolveAssemblyReference.cache
+C:\Users\pfennell\Documents\WebServicesApp\WebApplication1\WebApplication1\bin\Iesi.Collections.dll
+C:\Users\pfennell\Documents\WebServicesApp\WebApplication1\WebApplication1\bin\NHibernate.dll
+C:\Users\pfennell\Documents\WebServicesApp\WebApplication1\WebApplication1\bin\Iesi.Collections.xml
+C:\Users\pfennell\Documents\WebServicesApp\WebApplication1\WebApplication1\bin\NHibernate.xml
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\WebApplication1\bin\Iesi.Collections.dll
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\WebApplication1\bin\NHibernate.dll
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\WebApplication1\bin\Iesi.Collections.xml
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\WebApplication1\bin\NHibernate.xml
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\WebApplication1\obj\Debug\CurrencyConvertor.csprojResolveAssemblyReference.cache

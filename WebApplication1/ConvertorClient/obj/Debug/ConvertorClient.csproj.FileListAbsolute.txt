@@ -1,0 +1,14 @@
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\bin\ConvertorClient.dll
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\bin\ConvertorClient.pdb
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\bin\WebApplication1.dll
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\bin\WebApplication1.pdb
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\obj\Debug\ConvertorClient.csprojResolveAssemblyReference.cache
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\obj\Debug\ConvertorClient.dll
+D:\websitecontent\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\obj\Debug\ConvertorClient.pdb
+C:\Users\pa\Documents\Visual Studio 2012\Projects\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\bin\ConvertorClient.dll
+C:\Users\pa\Documents\Visual Studio 2012\Projects\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\bin\ConvertorClient.pdb
+C:\Users\pa\Documents\Visual Studio 2012\Projects\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\bin\WebApplication1.dll
+C:\Users\pa\Documents\Visual Studio 2012\Projects\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\bin\WebApplication1.pdb
+C:\Users\pa\Documents\Visual Studio 2012\Projects\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\obj\Debug\ConvertorClient.csprojResolveAssemblyReference.cache
+C:\Users\pa\Documents\Visual Studio 2012\Projects\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\obj\Debug\ConvertorClient.dll
+C:\Users\pa\Documents\Visual Studio 2012\Projects\Default Web Site\WebServicesApp\WebApplication1\ConvertorClient\obj\Debug\ConvertorClient.pdb
